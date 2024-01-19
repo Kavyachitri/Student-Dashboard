@@ -1,0 +1,37 @@
+.progresses{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(219, 213, 213);
+    border-radius: 15px;
+    gap: 10px;
+    background-color: white;
+    padding: 5px 20px;
+}
+.progress{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 5px;
+    justify-content: space-around;
+    
+    
+}
+
+.bar{
+    position: relative;
+   
+}
+.percentage{
+    position: absolute;
+    bottom: 20px;
+    left: 75px;
+}
+p{
+    font-size: 12px;
+}
+.progress-1{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 6px;
+}

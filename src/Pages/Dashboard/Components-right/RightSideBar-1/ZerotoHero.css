@@ -1,0 +1,15 @@
+.ZerotoHero{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+    border: 1px solid rgb(241, 237, 237);
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px 30px;
+}
+.hero-img{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 5px;
+}

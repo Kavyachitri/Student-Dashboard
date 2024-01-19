@@ -1,0 +1,22 @@
+.Bookslot{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+    border: 1px solid rgb(189, 185, 185);
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px 7px;
+    text-align: center;
+}
+.Bookslot img{
+    width: 60px;
+}
+.Bookslot button{
+    width: 150px;
+    height: 35px;
+    padding: 5px 20px;
+    background-color: rgb(250, 95, 5);
+    color: white;
+    border: none;
+}

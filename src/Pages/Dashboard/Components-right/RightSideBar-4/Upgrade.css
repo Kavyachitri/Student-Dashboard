@@ -1,0 +1,23 @@
+.Upgrade{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+    border: 1px solid rgb(189, 185, 185);
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px 7px;
+    text-align: center;
+}
+.Upgrade img{
+    width: 180px;
+    height: 150px;
+}
+.Upgrade button{
+    width: 150px;
+    height: 35px;
+    padding: 5px 20px;
+    background-color: rgb(7, 105, 129);
+    color: white;
+    border: none;
+}

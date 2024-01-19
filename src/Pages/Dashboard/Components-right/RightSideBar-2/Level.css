@@ -1,0 +1,36 @@
+.Level{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+    border: 1px solid rgb(235, 230, 230);
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px 30px;
+
+}
+.Level-heading{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.Level-heading img{
+    width: 40px;
+}
+.Level-img{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.level-sub{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.Level-p{
+    display: flex;
+    gap: 10px;
+}
+.Level-img img{
+    width: 15px;
+}
