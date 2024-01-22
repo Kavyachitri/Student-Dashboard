@@ -7,3 +7,4 @@ The student dashboard project aims to streamline information access, improve com
 
 
 
+![Screenshot (1)](https://github.com/Kavyachitri/Student-Dashboard/assets/98737257/01c667ea-35e3-40ca-947f-bea0ee312925)
